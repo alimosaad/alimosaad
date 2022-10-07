@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at **faculty of computers & artificial intlligence**
 
-- 🌱 I’m currently learning **DL and data science**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **ML & Neural-Networks and DL**
 
