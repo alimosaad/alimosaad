@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Mosaad</h1>
-<h3 align="center">A Machine Learning Enginner from Egypt</h3>
+<h3 align="center">A Flutter Enginner from Egypt</h3>
  
 
 - 🔭 I’m currently studying at **faculty of computers & artificial intlligence**
