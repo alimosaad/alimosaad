@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter Enginner from Egypt</h3>
  
 
-- 🔭 I’m currently studying at **faculty of computers & artificial intlligence**
+- 🔭 I’m graduated from **faculty of computers & artificial intlligence**
 
 - 🌱 I’m currently learning **Flutter**
 
