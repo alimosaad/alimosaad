@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.Net Back-End**
 
-- 💬 Ask me about **ML & Neural-Networks and DL**
+- 💬 Ask me about **Flutter Mobile Development**
 
 - 📫 How to reach me **alimosaad573@gmail.com**
 
