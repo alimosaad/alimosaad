@@ -4,7 +4,7 @@
 
 - 🔭 I’m graduated from **faculty of computers & artificial intlligence**
 
-- 🌱 I’m currently learning **.Net Back-End**
+- 🌱 I’m currently learning **Advanced Flutter Mobile Development**
 
 - 💬 Ask me about **Flutter Mobile Development**
 
