@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Mosaad</h1>
-<h3 align="center">A Flutter Enginner from Egypt</h3>
+<h3 align="center">A Software Enginner from Egypt</h3>
  
 
 - 🔭 I’m graduated from **faculty of computers & artificial intlligence**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java Backend Development**
 
 - 💬 Ask me about **Flutter Mobile Development**
 
