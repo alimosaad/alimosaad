@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Mosaad</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="right"> <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"/> </p>
+
 
 # 💫 About Me:
 
@@ -13,6 +13,8 @@
 - 📫 How to reach me alimosaad573@gmail.com
 
 - ⚡ Fun fact **I Love gymnastics and Running**
+
+<p align="center"> <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"/> </p>
 
 ## 🌐 Socials:
 <p align="left">
