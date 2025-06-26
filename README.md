@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Mosaad</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+
 # 💫 About Me:
 
 - 🔭 I’m graduated from **faculty of computers & artificial intlligence**
