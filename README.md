@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I Love gymnastics and Running**
 
+<p align="right"> <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"/> </p>
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/alimosaad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimosaad200" height="30" width="40" /></a>
