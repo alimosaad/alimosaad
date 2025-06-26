@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 🌱 I’m currently learning **German**
-
 - 💬 Ask me about **Java Backend Development**
 
 - 📫 How to reach me alimosaad573@gmail.com
